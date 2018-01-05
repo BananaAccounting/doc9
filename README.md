@@ -24,10 +24,4 @@ Documentation regarding Banana Accounting 9
 - spanish 
   
 ### Directories for country specific  Documentation 
-
-- switzerland
-  - italian
-    - files
-	  ac2 examples files
-	- images
-	  images relativi to sitzerland / italian web par 
+Country specific file and images should be in country specific repository
